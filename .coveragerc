@@ -1,0 +1,6 @@
+[run]
+source = practica4
+omit = 
+    tests/*
+    autoapp.py
+
